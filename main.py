@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import random
 import time
 import requests
@@ -6,6 +7,7 @@ import json
 import csv
 import os
 import re
+
 
 def get_videocard_data(url):
     headers = {
@@ -23,7 +25,7 @@ def get_videocard_data(url):
     soup = BeautifulSoup(req.text, 'lxml')
     videocards = soup.find_all("div", class_="model-short-div")
     for videocard in videocards:
-
+        time.sleep(random.randrange(2, 4))
         try:
             videocard_url = f"https://www.e-katalog.ru/prices" + videocard.find("span", class_="u").find_parent("a").get("href").rstrip('.htm')
             vs_name = videocard.find('span', class_='u').text
@@ -36,8 +38,9 @@ def get_videocard_data(url):
 
         soup = BeautifulSoup(req.text, 'lxml')
         try:
-            lower_price = soup.find("div", class_=re.compile("desc-big-price")).find("span").text
+            lower_price = soup.find("div", class_=re.compile("^desc-big-price")).find("span").text
             lower_price = ''.join(lower_price.split())
+            print(lower_price)
 
         except Exception:
             lower_price = "Цену стоит перепроверить на сайте"
@@ -64,10 +67,9 @@ def main():
         os.remove(path1)
     if os.path.exists(path2):
         os.remove(path2)
-    for page_index in range(0, 1):
+    for page_index in range(0, 74):
         url = f"https://www.e-katalog.ru/ek-list.php?katalog_=189&page_={page_index}"
         get_videocard_data(url)
-        time.sleep(random.randrange(2, 4))
         print(f"Итерация #{page_index + 1} из 74")
 
 

@@ -1,24 +1,460 @@
-MSI GeForce RTX 3060 VENTUS 2X 12G OC;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3060-VENTUS-2X-12G-OC;67800,00 �.
-Gigabyte GeForce GTX 1660 OC 6G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-GTX-1660-OC-6G;46200,00 �.
-Gigabyte GeForce RTX 3060 Ti GAMING OC LHR 8G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3060-TI-GAMING-OC-LHR-8G;89990,00 �.
-Gigabyte GeForce RTX 3060 GAMING OC LHR 12G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3060-GAMING-OC-LHR-12G;68500,00 �.
-MSI GeForce RTX 2060 VENTUS GP OC;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-2060-VENTUS-GP-OC;53500,00 �.
-Gigabyte GeForce GTX 1650 D6 OC 4G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-GTX-1650-D6-OC-4G;28950,00 �.
-MSI GeForce RTX 3060 Ti GAMING X 8G LHR;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3060-TI-GAMING-X-8G-LHR;79500,00 �.
-Gigabyte Radeon RX 6600 EAGLE 8G;https://www.e-katalog.ru/prices/GIGABYTE-RADEON-RX-6600-EAGLE-8G;55890,00 �.
-Palit GeForce 1050 Ti StormX NE5105T018G1-1070F;https://www.e-katalog.ru/prices/PALIT-GEFORCE-1050-TI-STORMX-NE5105T018G1-1070F;23280,00 �.
-Palit GeForce RTX 3060 Dual;https://www.e-katalog.ru/prices/PALIT-GEFORCE-RTX-3060-DUAL;67800,00 �.
-Palit GeForce RTX 3070 Ti GamingPro;https://www.e-katalog.ru/prices/PALIT-GEFORCE-RTX-3070-TI-GAMINGPRO;117990,00 �.
-Palit GeForce RTX 2060 Dual;https://www.e-katalog.ru/prices/PALIT-GEFORCE-RTX-2060-DUAL;61000,00 �.
-MSI GeForce RTX 3060 Ti VENTUS 2X 8G OCV1 LHR;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3060-TI-VENTUS-2X-8G-OCV1-LHR;81540,00 �.
-Gigabyte GeForce RTX 3060 EAGLE OC LHR 12G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3060-EAGLE-OC-LHR-12G;67900,00 �.
-Asus GeForce GTX 1650 TUF O4GD6-P-GAMING;https://www.e-katalog.ru/prices/ASUS-GEFORCE-GTX-1650-TUF-O4GD6-P-GAMING;29880,00 �.
-Gigabyte GeForce RTX 3080 Ti GAMING OC 12G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3080-TI-GAMING-OC-12G;171200,00 �.
-Gigabyte GeForce RTX 3060 Ti EAGLE OC LHR 8G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3060-TI-EAGLE-OC-LHR-8G;80750,00 �.
-Gigabyte GeForce RTX 2060 D6 6G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-2060-D6-6G;53500,00 �.
-Asus GeForce GTX 1650 Phoenix O4GD6-P;https://www.e-katalog.ru/prices/ASUS-GEFORCE-GTX-1650-PHOENIX-O4GD6-P;28900,00 �.
-Palit GeForce RTX 3060 StormX;https://www.e-katalog.ru/prices/PALIT-GEFORCE-RTX-3060-STORMX;64500,00 �.
-Palit GeForce RTX 3070 GamingPro V1 LHR;https://www.e-katalog.ru/prices/PALIT-GEFORCE-RTX-3070-GAMINGPRO-V1-LHR;92700,00 �.
-Sapphire Radeon RX 6600 XT PULSE;https://www.e-katalog.ru/prices/SAPPHIRE-RADEON-RX-6600-XT-PULSE;66400,00 �.
-Palit GeForce RTX 3060 Ti Dual OC;https://www.e-katalog.ru/prices/PALIT-GEFORCE-RTX-3060-TI-DUAL-OC;78700,00 �.
-Asus GeForce RTX 3070 Ti TUF Gaming OC;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3070-TI-TUF-GAMING-OC;130990,00 �.
+MSI GeForce RTX 3060 VENTUS 2X 12G OC;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3060-VENTUS-2X-12G-OC;67800,00 р.
+Gigabyte GeForce GTX 1660 OC 6G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-GTX-1660-OC-6G;45900,00 р.
+Gigabyte GeForce RTX 3060 Ti GAMING OC LHR 8G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3060-TI-GAMING-OC-LHR-8G;89990,00 р.
+Gigabyte GeForce RTX 3060 GAMING OC LHR 12G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3060-GAMING-OC-LHR-12G;68500,00 р.
+MSI GeForce RTX 2060 VENTUS GP OC;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-2060-VENTUS-GP-OC;53500,00 р.
+Gigabyte GeForce GTX 1650 D6 OC 4G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-GTX-1650-D6-OC-4G;29530,00 р.
+MSI GeForce RTX 3060 Ti GAMING X 8G LHR;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3060-TI-GAMING-X-8G-LHR;81750,00 р.
+Gigabyte Radeon RX 6600 EAGLE 8G;https://www.e-katalog.ru/prices/GIGABYTE-RADEON-RX-6600-EAGLE-8G;55890,00 р.
+Palit GeForce 1050 Ti StormX NE5105T018G1-1070F;https://www.e-katalog.ru/prices/PALIT-GEFORCE-1050-TI-STORMX-NE5105T018G1-1070F;22400,00 р.
+Palit GeForce RTX 3060 Dual;https://www.e-katalog.ru/prices/PALIT-GEFORCE-RTX-3060-DUAL;67800,00 р.
+Palit GeForce RTX 3070 Ti GamingPro;https://www.e-katalog.ru/prices/PALIT-GEFORCE-RTX-3070-TI-GAMINGPRO;117490,00 р.
+Palit GeForce RTX 2060 Dual;https://www.e-katalog.ru/prices/PALIT-GEFORCE-RTX-2060-DUAL;61000,00 р.
+MSI GeForce RTX 3060 Ti VENTUS 2X 8G OCV1 LHR;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3060-TI-VENTUS-2X-8G-OCV1-LHR;81000,00 р.
+Gigabyte GeForce RTX 3060 EAGLE OC LHR 12G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3060-EAGLE-OC-LHR-12G;67900,00 р.
+Asus GeForce GTX 1650 TUF O4GD6-P-GAMING;https://www.e-katalog.ru/prices/ASUS-GEFORCE-GTX-1650-TUF-O4GD6-P-GAMING;29880,00 р.
+Gigabyte GeForce RTX 3080 Ti GAMING OC 12G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3080-TI-GAMING-OC-12G;169990,00 р.
+Gigabyte GeForce RTX 3060 Ti EAGLE OC LHR 8G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3060-TI-EAGLE-OC-LHR-8G;80750,00 р.
+Gigabyte GeForce RTX 2060 D6 6G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-2060-D6-6G;53500,00 р.
+Asus GeForce GTX 1650 Phoenix O4GD6-P;https://www.e-katalog.ru/prices/ASUS-GEFORCE-GTX-1650-PHOENIX-O4GD6-P;28900,00 р.
+Palit GeForce RTX 3060 StormX;https://www.e-katalog.ru/prices/PALIT-GEFORCE-RTX-3060-STORMX;63936,00 р.
+Palit GeForce RTX 3070 GamingPro V1 LHR;https://www.e-katalog.ru/prices/PALIT-GEFORCE-RTX-3070-GAMINGPRO-V1-LHR;92700,00 р.
+Sapphire Radeon RX 6600 XT PULSE;https://www.e-katalog.ru/prices/SAPPHIRE-RADEON-RX-6600-XT-PULSE;66400,00 р.
+Palit GeForce RTX 3060 Ti Dual OC;https://www.e-katalog.ru/prices/PALIT-GEFORCE-RTX-3060-TI-DUAL-OC;78700,00 р.
+Asus GeForce RTX 3070 Ti TUF Gaming OC;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3070-TI-TUF-GAMING-OC;129990,00 р.
+Palit GeForce GTX 1650 GP NE6165001BG1-1175A;https://www.e-katalog.ru/prices/PALIT-GEFORCE-GTX-1650-GP-NE6165001BG1-1175A;40990,00 р.
+MSI GeForce RTX 3070 VENTUS 3X 8G OC LHR;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3070-VENTUS-3X-8G-OC-LHR;92593,00 р.
+AFOX Radeon RX 560 AFRX560-4096D5H4;https://www.e-katalog.ru/prices/AFOX-RADEON-RX-560-AFRX560-4096D5H4;25990,00 р.
+Gigabyte Radeon RX 6600 XT GAMING OC PRO 8G;https://www.e-katalog.ru/prices/GIGABYTE-RADEON-RX-6600-XT-GAMING-OC-PRO-8G;66990,00 р.
+MSI GTX 1050 Ti 4GT OC;https://www.e-katalog.ru/prices/MSI-GTX-1050-TI-4GT-OC;25990,00 р.
+Gigabyte GeForce RTX 3060 Ti GAMING OC PRO 8G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3060-TI-GAMING-OC-PRO-8G;82750,00 р.
+Palit GeForce RTX 3070 GamingPro;https://www.e-katalog.ru/prices/PALIT-GEFORCE-RTX-3070-GAMINGPRO;148800,00 р.
+Palit GeForce GTX 1660 Dual;https://www.e-katalog.ru/prices/PALIT-GEFORCE-GTX-1660-DUAL;49800,00 р.
+Asus GeForce GTX 1660 Ti TUF Gaming EVO TOP;https://www.e-katalog.ru/prices/ASUS-GEFORCE-GTX-1660-TI-TUF-GAMING-EVO-TOP;55990,00 р.
+Asus GeForce GTX 1050 Ti CERBERUS-GTX1050TI-A4G;https://www.e-katalog.ru/prices/ASUS-GEFORCE-GTX-1050-TI-CERBERUS-GTX1050TI-A4G;25990,00 р.
+MSI GeForce RTX 3060 Ti VENTUS 3X 8G OC LHR;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3060-TI-VENTUS-3X-8G-OC-LHR;87580,00 р.
+Gigabyte GeForce GTX 1050 Ti D5 4G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-GTX-1050-TI-D5-4G;24900,00 р.
+Sapphire Radeon RX 6600 PULSE;https://www.e-katalog.ru/prices/SAPPHIRE-RADEON-RX-6600-PULSE;57500,00 р.
+Gigabyte GeForce GTX 1650 D6 WINDFORCE OC 4G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-GTX-1650-D6-WINDFORCE-OC-4G;41990,00 р.
+Gigabyte GeForce RTX 3070 GAMING OC LHR 8G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3070-GAMING-OC-LHR-8G;89990,00 р.
+Gigabyte GeForce RTX 3070 GAMING OC 8G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3070-GAMING-OC-8G;97987,00 р.
+Asus GeForce GT 1030 PH-GT1030-O2G;https://www.e-katalog.ru/prices/ASUS-GEFORCE-GT-1030-PH-GT1030-O2G;9424,00 р.
+Gigabyte GeForce RTX 3080 GAMING OC LHR 10G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3080-GAMING-OC-LHR-10G;130990,00 р.
+Palit GeForce RTX 3060 Ti Dual V1 LHR;https://www.e-katalog.ru/prices/PALIT-GEFORCE-RTX-3060-TI-DUAL-V1-LHR;77990,00 р.
+Asus GeForce RTX 3080 Ti ROG STRIX OC;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3080-TI-ROG-STRIX-OC;209803,00 р.
+Gigabyte GeForce GTX 1660 Ti OC 6G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-GTX-1660-TI-OC-6G;53790,00 р.
+Asus GeForce RTX 3060 ROG STRIX V2 Gaming OC LHR;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3060-ROG-STRIX-V2-GAMING-OC-LHR;87900,00 р.
+Gigabyte GeForce RTX 3060 Ti AORUS ELITE LHR 8G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3060-TI-AORUS-ELITE-LHR-8G;97600,00 р.
+Colorful GeForce RTX 3060 Ultra W OC 12G-V;https://www.e-katalog.ru/prices/COLORFUL-GEFORCE-RTX-3060-ULTRA-W-OC-12G-V;78950,00 р.
+Gigabyte GeForce RTX 3060 AORUS ELITE LHR 12G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3060-AORUS-ELITE-LHR-12G;72200,00 р.
+MSI GeForce GTX 1650 VENTUS XS 4G OC;https://www.e-katalog.ru/prices/MSI-GEFORCE-GTX-1650-VENTUS-XS-4G-OC;34990,00 р.
+Gigabyte GeForce GT 1030 OC 2G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-GT-1030-OC-2G;8790,00 р.
+Sapphire Radeon RX 6600 XT NITRO+;https://www.e-katalog.ru/prices/SAPPHIRE-RADEON-RX-6600-XT-NITROPLUS;68990,00 р.
+Palit GeForce RTX 3080 Ti GamingPro;https://www.e-katalog.ru/prices/PALIT-GEFORCE-RTX-3080-TI-GAMINGPRO;174900,00 р.
+EVGA GeForce RTX 3060 XC GAMING;https://www.e-katalog.ru/prices/EVGA-GEFORCE-RTX-3060-XC-GAMING;74900,00 р.
+Asus GeForce GTX 1660 PHOENIX OC;https://www.e-katalog.ru/prices/ASUS-GEFORCE-GTX-1660-PHOENIX-OC;44890,00 р.
+Palit GeForce RTX 3060 Dual V1 LHR;https://www.e-katalog.ru/prices/PALIT-GEFORCE-RTX-3060-DUAL-V1-LHR;67900,00 р.
+Palit GeForce RTX 3070 GameRock;https://www.e-katalog.ru/prices/PALIT-GEFORCE-RTX-3070-GAMEROCK;97490,00 р.
+Asus GeForce RTX 2060 DUAL EVO OC;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-2060-DUAL-EVO-OC;58490,00 р.
+Gigabyte GeForce RTX 3090 AORUS XTREME 24G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3090-AORUS-XTREME-24G;285048,00 р.
+Asus GeForce RTX 3060 Ti Dual V2 OC LHR;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3060-TI-DUAL-V2-OC-LHR;85040,00 р.
+Gigabyte GeForce RTX 3060 GAMING OC 12G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3060-GAMING-OC-12G;75110,00 р.
+Gigabyte Radeon RX 6600 XT EAGLE 8G;https://www.e-katalog.ru/prices/GIGABYTE-RADEON-RX-6600-XT-EAGLE-8G;69990,00 р.
+Asus Radeon RX 6600 XT Dual OC;https://www.e-katalog.ru/prices/ASUS-RADEON-RX-6600-XT-DUAL-OC;69300,00 р.
+MSI GeForce RTX 3080 Ti VENTUS 3X 12G OC;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3080-TI-VENTUS-3X-12G-OC;170490,00 р.
+ASRock Radeon RX 6900 XT Phantom Gaming D 16G OC;https://www.e-katalog.ru/prices/ASROCK-RADEON-RX-6900-XT-PHANTOM-GAMING-D-16G-OC;151490,00 р.
+Palit GeForce RTX 3070 JetStream;https://www.e-katalog.ru/prices/PALIT-GEFORCE-RTX-3070-JETSTREAM;112090,00 р.
+Asus GeForce RTX 3080 Ti TUF Gaming OC;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3080-TI-TUF-GAMING-OC;175790,00 р.
+Asus Radeon RX 6600 XT ROG STRIX Gaming OC;https://www.e-katalog.ru/prices/ASUS-RADEON-RX-6600-XT-ROG-STRIX-GAMING-OC;76820,00 р.
+Gigabyte GeForce RTX 3070 Ti GAMING OC 8G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3070-TI-GAMING-OC-8G;116500,00 р.
+Asus GeForce RTX 3060 Ti TUF Gaming V2 OC LHR;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3060-TI-TUF-GAMING-V2-OC-LHR;83990,00 р.
+Palit GeForce GTX 1660 SUPER GP;https://www.e-katalog.ru/prices/PALIT-GEFORCE-GTX-1660-SUPER-GP;60990,00 р.
+Asus GeForce GT 1030 GT1030-2G-BRK;https://www.e-katalog.ru/prices/ASUS-GEFORCE-GT-1030-GT1030-2G-BRK;7623,00 р.
+MSI GeForce RTX 3080 Ti GAMING X TRIO 12G;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3080-TI-GAMING-X-TRIO-12G;175500,00 р.
+Gigabyte GeForce GTX 1650 SUPER OC 4G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-GTX-1650-SUPER-OC-4G;43720,00 р.
+MSI GeForce RTX 3070 Ti GAMING X TRIO 8G;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3070-TI-GAMING-X-TRIO-8G;125000,00 р.
+Palit GeForce RTX 3080 GameRock;https://www.e-katalog.ru/prices/PALIT-GEFORCE-RTX-3080-GAMEROCK;149705,00 р.
+MSI GeForce GTX 1660 SUPER VENTUS XS OC;https://www.e-katalog.ru/prices/MSI-GEFORCE-GTX-1660-SUPER-VENTUS-XS-OC;59000,00 р.
+Palit GeForce RTX 3080 GamingPro;https://www.e-katalog.ru/prices/PALIT-GEFORCE-RTX-3080-GAMINGPRO;154340,00 р.
+MSI GeForce RTX 3060 VENTUS 2X 12G OC LHR;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3060-VENTUS-2X-12G-OC-LHR;65000,00 р.
+MSI GeForce RTX 3060 VENTUS 3X 12G OC;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3060-VENTUS-3X-12G-OC;107058,00 р.
+AFOX GeForce GT 740 AF740-4096D5H2-V2;https://www.e-katalog.ru/prices/AFOX-GEFORCE-GT-740-AF740-4096D5H2-V2;9459,00 р.
+Asus GeForce RTX 3060 Ti ROG STRIX V2 Gaming OC LHR;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3060-TI-ROG-STRIX-V2-GAMING-OC-LHR;88270,00 р.
+Gigabyte GeForce RTX 3060 Ti GAMING OC PRO LHR 8G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3060-TI-GAMING-OC-PRO-LHR-8G;94234,00 р.
+Asus GeForce RTX 3060 Dual V2 OC LHR;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3060-DUAL-V2-OC-LHR;69190,00 р.
+Gigabyte Radeon RX 6600 XT GAMING OC 8G;https://www.e-katalog.ru/prices/GIGABYTE-RADEON-RX-6600-XT-GAMING-OC-8G;64990,00 р.
+Gigabyte Radeon RX 6700 XT GAMING OC 12G;https://www.e-katalog.ru/prices/GIGABYTE-RADEON-RX-6700-XT-GAMING-OC-12G;95900,00 р.
+Palit GeForce RTX 3070 Ti GameRock;https://www.e-katalog.ru/prices/PALIT-GEFORCE-RTX-3070-TI-GAMEROCK;119400,00 р.
+MSI GeForce GTX 1660 Ti ARMOR 6G OC;https://www.e-katalog.ru/prices/MSI-GEFORCE-GTX-1660-TI-ARMOR-6G-OC;56990,00 р.
+Gigabyte GeForce RTX 3070 Ti AORUS MASTER 8G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3070-TI-AORUS-MASTER-8G;120300,00 р.
+MSI GeForce RTX 3080 GAMING Z TRIO 10G LHR;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3080-GAMING-Z-TRIO-10G-LHR;143990,00 р.
+Palit GeForce RTX 3080 Ti GameRock;https://www.e-katalog.ru/prices/PALIT-GEFORCE-RTX-3080-TI-GAMEROCK;174900,00 р.
+Gigabyte GeForce RTX 3080 GAMING OC 10G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3080-GAMING-OC-10G;219900,00 р.
+MSI GeForce RTX 3070 Ti VENTUS 3X 8G OC;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3070-TI-VENTUS-3X-8G-OC;117400,00 р.
+Gigabyte GeForce RTX 3060 Ti VISION OC LHR 8G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3060-TI-VISION-OC-LHR-8G;88900,00 р.
+Asus GeForce GTX 1650 DUAL Mini OC;https://www.e-katalog.ru/prices/ASUS-GEFORCE-GTX-1650-DUAL-MINI-OC;29190,00 р.
+Asus GeForce GTX 1660 SUPER DUAL EVO OC;https://www.e-katalog.ru/prices/ASUS-GEFORCE-GTX-1660-SUPER-DUAL-EVO-OC;60400,00 р.
+ASRock Radeon RX 6600 XT Challenger D 8GB OC;https://www.e-katalog.ru/prices/ASROCK-RADEON-RX-6600-XT-CHALLENGER-D-8GB-OC;67990,00 р.
+Gigabyte GeForce RTX 3080 Ti VISION OC 12G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3080-TI-VISION-OC-12G;169900,00 р.
+Palit GeForce RTX 2060 SUPER DUAL;https://www.e-katalog.ru/prices/PALIT-GEFORCE-RTX-2060-SUPER-DUAL;92900,00 р.
+Gigabyte GeForce RTX 3080 Ti AORUS MASTER 12G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3080-TI-AORUS-MASTER-12G;171900,00 р.
+MSI GeForce RTX 3060 GAMING X 12G LHR;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3060-GAMING-X-12G-LHR;71490,00 р.
+Palit GeForce GTX 1660 Ti Dual;https://www.e-katalog.ru/prices/PALIT-GEFORCE-GTX-1660-TI-DUAL;52490,00 р.
+MSI Radeon RX 6800 XT GAMING X TRIO 16G;https://www.e-katalog.ru/prices/MSI-RADEON-RX-6800-XT-GAMING-X-TRIO-16G;137590,00 р.
+Asus GeForce RTX 3060 Phoenix V2 LHR;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3060-PHOENIX-V2-LHR;68440,00 р.
+MSI GeForce RTX 3090 VENTUS 3X 24G OC;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3090-VENTUS-3X-24G-OC;258000,00 р.
+Gigabyte AORUS RTX 3090 GAMING BOX;https://www.e-katalog.ru/prices/GIGABYTE-AORUS-RTX-3090-GAMING-BOX;237977,00 р.
+Asus GeForce RTX 3060 TUF Gaming V2 OC LHR;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3060-TUF-GAMING-V2-OC-LHR;78310,00 р.
+Asus GeForce GTX 1050 Ti PH-GTX1050TI-4G;https://www.e-katalog.ru/prices/ASUS-GEFORCE-GTX-1050-TI-PH-GTX1050TI-4G;27390,00 р.
+MSI Radeon RX 6600 XT MECH 2X 8G OC;https://www.e-katalog.ru/prices/MSI-RADEON-RX-6600-XT-MECH-2X-8G-OC;68900,00 р.
+MSI Radeon RX 6600 XT GAMING X 8G;https://www.e-katalog.ru/prices/MSI-RADEON-RX-6600-XT-GAMING-X-8G;69900,00 р.
+PowerColor Radeon RX 6600 XT Red Devil;https://www.e-katalog.ru/prices/POWERCOLOR-RADEON-RX-6600-XT-RED-DEVIL;61490,00 р.
+Gigabyte GeForce GTX 1650 OC 4G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-GTX-1650-OC-4G;29500,00 р.
+Gigabyte GeForce GTX 1050 Ti OC Low Profile 4G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-GTX-1050-TI-OC-LOW-PROFILE-4G;24800,00 р.
+ZOTAC GeForce RTX 3060 Ti AMP White Edition LHR;https://www.e-katalog.ru/prices/ZOTAC-GEFORCE-RTX-3060-TI-AMP-WHITE-EDITION-LHR;80500,00 р.
+Gigabyte GeForce RTX 3090 GAMING OC 24G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3090-GAMING-OC-24G;265000,00 р.
+EVGA GeForce RTX 3080 Ti FTW3 ULTRA GAMING;https://www.e-katalog.ru/prices/EVGA-GEFORCE-RTX-3080-TI-FTW3-ULTRA-GAMING;184900,00 р.
+Gigabyte GeForce RTX 3060 Ti EAGLE OC 8G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3060-TI-EAGLE-OC-8G;79750,00 р.
+AFOX GeForce GTX 750 Ti AF750TI-4096D5H4;https://www.e-katalog.ru/prices/AFOX-GEFORCE-GTX-750-TI-AF750TI-4096D5H4;19990,00 р.
+Gigabyte GeForce RTX 3060 AORUS ELITE 12G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3060-AORUS-ELITE-12G;89060,00 р.
+Asus Radeon RX 6700 XT ROG STRIX Gaming OC;https://www.e-katalog.ru/prices/ASUS-RADEON-RX-6700-XT-ROG-STRIX-GAMING-OC;101950,00 р.
+Sinotex GeForce GTX 750 Ti NK75TI045F;https://www.e-katalog.ru/prices/SINOTEX-GEFORCE-GTX-750-TI-NK75TI045F;12290,00 р.
+Palit GeForce GTX 1660 SUPER StormX;https://www.e-katalog.ru/prices/PALIT-GEFORCE-GTX-1660-SUPER-STORMX;61550,00 р.
+MSI GeForce RTX 3070 VENTUS 3X OC;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3070-VENTUS-3X-OC;104442,00 р.
+Palit GeForce RTX 3070 JetStream V1 LHR;https://www.e-katalog.ru/prices/PALIT-GEFORCE-RTX-3070-JETSTREAM-V1-LHR;103460,00 р.
+Gigabyte GeForce GT 1030 Low Profile 2G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-GT-1030-LOW-PROFILE-2G;7660,00 р.
+Asus GeForce RTX 3080 TUF GAMING OC V2 LHR;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3080-TUF-GAMING-OC-V2-LHR;156790,00 р.
+MSI GeForce RTX 3060 GAMING X 12G;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3060-GAMING-X-12G;77200,00 р.
+Gigabyte GeForce RTX 3080 AORUS MASTER 10G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3080-AORUS-MASTER-10G;154990,00 р.
+Gigabyte GeForce GTX 1660 SUPER OC 6G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-GTX-1660-SUPER-OC-6G;58665,00 р.
+MSI GeForce RTX 2060 SUPER VENTUS OC;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-2060-SUPER-VENTUS-OC;78500,00 р.
+MSI GeForce RTX 3070 GAMING Z TRIO 8G LHR;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3070-GAMING-Z-TRIO-8G-LHR;94400,00 р.
+Gigabyte GeForce RTX 3090 VISION OC 24G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3090-VISION-OC-24G;259990,00 р.
+MSI GT 1030 AERO ITX 2GD4 OC;https://www.e-katalog.ru/prices/MSI-GT-1030-AERO-ITX-2GD4-OC;7200,00 р.
+ASRock Radeon RX 6600 XT Phantom Gaming D 8GB OC;https://www.e-katalog.ru/prices/ASROCK-RADEON-RX-6600-XT-PHANTOM-GAMING-D-8GB-OC;63961,00 р.
+Gigabyte GeForce RTX 3080 Ti EAGLE 12G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3080-TI-EAGLE-12G;171000,00 р.
+Asus GeForce RTX 3070 ROG STRIX V2 OC LHR;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3070-ROG-STRIX-V2-OC-LHR;116990,00 р.
+Sapphire NITRO+ RX 6900 XT 11308-03-20G;https://www.e-katalog.ru/prices/SAPPHIRE-NITROPLUS-RX-6900-XT-11308-03-20G;165600,00 р.
+Sinotex GeForce GT 740 NH74NP045F;https://www.e-katalog.ru/prices/SINOTEX-GEFORCE-GT-740-NH74NP045F;8130,00 р.
+Palit GeForce GTX 1080 Ti Super JetStream;https://www.e-katalog.ru/prices/PALIT-GEFORCE-GTX-1080-TI-SUPER-JETSTREAM;65000,00 р.
+ZOTAC GeForce RTX 3060 Twin Edge OC;https://www.e-katalog.ru/prices/ZOTAC-GEFORCE-RTX-3060-TWIN-EDGE-OC;75490,00 р.
+Gigabyte GeForce RTX 3060 VISION OC LHR 12G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3060-VISION-OC-LHR-12G;71560,00 р.
+Asus GeForce RTX 3080 ROG STRIX V2 Gaming OC LHR;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3080-ROG-STRIX-V2-GAMING-OC-LHR;152390,00 р.
+Palit GeForce RTX 3090 GamingPro;https://www.e-katalog.ru/prices/PALIT-GEFORCE-RTX-3090-GAMINGPRO;275000,00 р.
+INNO3D GeForce GTX 1660 TI TWIN X2;https://www.e-katalog.ru/prices/INNO3D-GEFORCE-GTX-1660-TI-TWIN-X2;55720,00 р.
+PNY GeForce RTX 2060 6GB Blower;https://www.e-katalog.ru/prices/PNY-GEFORCE-RTX-2060-6GB-BLOWER;56680,00 р.
+Palit GeForce GTX 1660 Ti StormX;https://www.e-katalog.ru/prices/PALIT-GEFORCE-GTX-1660-TI-STORMX;54190,00 р.
+Gigabyte GeForce RTX 3060 Ti GAMING OC 8G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3060-TI-GAMING-OC-8G;97890,00 р.
+Asus GeForce GT 1030 GT1030-SL-2G-BRK;https://www.e-katalog.ru/prices/ASUS-GEFORCE-GT-1030-GT1030-SL-2G-BRK;7864,00 р.
+Palit GeForce RTX 3090 GameRock;https://www.e-katalog.ru/prices/PALIT-GEFORCE-RTX-3090-GAMEROCK;275990,00 р.
+Gigabyte GeForce RTX 3080 Ti AORUS XTREME 12G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3080-TI-AORUS-XTREME-12G;190000,00 р.
+Asus GeForce RTX 3070 TUF Gaming OC V2 LHR;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3070-TUF-GAMING-OC-V2-LHR;103000,00 р.
+Gigabyte GeForce GTX 1650 SUPER WINDFORCE OC 4G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-GTX-1650-SUPER-WINDFORCE-OC-4G;45090,00 р.
+Dell Radeon Pro WX 3200 490-BFQS;https://www.e-katalog.ru/prices/DELL-RADEON-PRO-WX-3200-490-BFQS;14990,00 р.
+Asus GeForce GTX 1660 SUPER TUF OC;https://www.e-katalog.ru/prices/ASUS-GEFORCE-GTX-1660-SUPER-TUF-OC;59450,00 р.
+Palit GeForce RTX 3080 GamingPro V1 LHR;https://www.e-katalog.ru/prices/PALIT-GEFORCE-RTX-3080-GAMINGPRO-V1-LHR;135990,00 р.
+Gigabyte GeForce RTX 3070 AORUS MASTER LHR 8G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3070-AORUS-MASTER-LHR-8G;98100,00 р.
+Asus GeForce RTX 3060 Ti Dual V2 Mini LHR;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3060-TI-DUAL-V2-MINI-LHR;80500,00 р.
+PNY GeForce RTX 3060 Ti 8GB XLR8 Gaming REVEL EPIC-X RGB Dual LHR;https://www.e-katalog.ru/prices/PNY-GEFORCE-RTX-3060-TI-8GB-XLR8-GAMING-REVEL-EPIC-X-RGB-DUAL-LHR;85428,00 р.
+Asus GeForce RTX 3090 TUF OC;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3090-TUF-OC;273000,00 р.
+Asus Radeon RX 6700 XT DUAL;https://www.e-katalog.ru/prices/ASUS-RADEON-RX-6700-XT-DUAL;93490,00 р.
+Asus GeForce RTX 3060 Phoenix;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3060-PHOENIX;79560,00 р.
+AFOX GeForce GTX 750 Ti AF750TI-2048D5H5;https://www.e-katalog.ru/prices/AFOX-GEFORCE-GTX-750-TI-AF750TI-2048D5H5;14990,00 р.
+Gigabyte GeForce RTX 3070 AORUS MASTER 8G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3070-AORUS-MASTER-8G;115000,00 р.
+Gigabyte GeForce RTX 3080 AORUS GAMING BOX LHR;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3080-AORUS-GAMING-BOX-LHR;141333,00 р.
+AFOX GeForce GTX 750 AF750-4096D5L4;https://www.e-katalog.ru/prices/AFOX-GEFORCE-GTX-750-AF750-4096D5L4;10990,00 р.
+MSI GeForce GTX 1660 VENTUS XS 6G;https://www.e-katalog.ru/prices/MSI-GEFORCE-GTX-1660-VENTUS-XS-6G;52560,00 р.
+PowerColor Radeon RX 6900 XT Red Devil;https://www.e-katalog.ru/prices/POWERCOLOR-RADEON-RX-6900-XT-RED-DEVIL;154600,00 р.
+Ninja GeForce GT 740 NH74NP045F;https://www.e-katalog.ru/prices/NINJA-GEFORCE-GT-740-NH74NP045F;9268,00 р.
+PNY GeForce RTX 3080 Ti 12GB XLR8 Gaming REVEL;https://www.e-katalog.ru/prices/PNY-GEFORCE-RTX-3080-TI-12GB-XLR8-GAMING-REVEL;166900,00 р.
+PNY GeForce GTX 1660 Ti XLR8 Dual Fan;https://www.e-katalog.ru/prices/PNY-GEFORCE-GTX-1660-TI-XLR8-DUAL-FAN;54900,00 р.
+Gigabyte GeForce RTX 3080 AORUS XTREME LHR 10G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3080-AORUS-XTREME-LHR-10G;152790,00 р.
+MSI GeForce GT 730 N730K-4GD3 OCV1;https://www.e-katalog.ru/prices/MSI-GEFORCE-GT-730-N730K-4GD3-OCV1;6850,00 р.
+Colorful GeForce RTX 3070 bilibili E-sports Edition OC LHR-V;https://www.e-katalog.ru/prices/COLORFUL-GEFORCE-RTX-3070-BILIBILI-E-SPORTS-EDITION-OC-LHR-V;94990,00 р.
+Ninja GeForce GT 740 NH74NP025F;https://www.e-katalog.ru/prices/NINJA-GEFORCE-GT-740-NH74NP025F;7149,00 р.
+MSI GT 1030 2GHD4 LP OC;https://www.e-katalog.ru/prices/MSI-GT-1030-2GHD4-LP-OC;6580,00 р.
+Asus GeForce GTX 1650 TUF Gaming GDDR6;https://www.e-katalog.ru/prices/ASUS-GEFORCE-GTX-1650-TUF-GAMING-GDDR6;37620,00 р.
+PNY Quadro T600 VCNT600-SB;https://www.e-katalog.ru/prices/PNY-QUADRO-T600-VCNT600-SB;15655,00 р.
+MSI GeForce RTX 3080 VENTUS 3X 10G OC LHR;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3080-VENTUS-3X-10G-OC-LHR;139000,00 р.
+MSI GeForce GTX 1660 SUPER GAMING X;https://www.e-katalog.ru/prices/MSI-GEFORCE-GTX-1660-SUPER-GAMING-X;72990,00 р.
+Gigabyte GeForce RTX 3080 VISION OC LHR 10G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3080-VISION-OC-LHR-10G;153990,00 р.
+Asus GeForce RTX 3080 ROG STRIX V2 White OC LHR;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3080-ROG-STRIX-V2-WHITE-OC-LHR;152772,00 р.
+Asus GeForce RTX 3070 DUAL OC;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3070-DUAL-OC;138300,00 р.
+MSI GTX 1050 Ti 4G OCV1;https://www.e-katalog.ru/prices/MSI-GTX-1050-TI-4G-OCV1;22200,00 р.
+XFX Radeon RX 6900 XT RX-69XTACBD9;https://www.e-katalog.ru/prices/XFX-RADEON-RX-6900-XT-RX-69XTACBD9;150500,00 р.
+Gigabyte GeForce RTX 3060 EAGLE OC 12G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3060-EAGLE-OC-12G;69950,00 р.
+Sapphire NITRO+ RX 6800 XT SE 11304-01-20G;https://www.e-katalog.ru/prices/SAPPHIRE-NITROPLUS-RX-6800-XT-SE-11304-01-20G;143900,00 р.
+Asus GeForce RTX 3070 EKWB;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3070-EKWB;132908,00 р.
+MSI GeForce RTX 3060 Ti GAMING Z TRIO 8G LHR;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3060-TI-GAMING-Z-TRIO-8G-LHR;89400,00 р.
+Asus GeForce GT 710 GT710-SL-2GD5;https://www.e-katalog.ru/prices/ASUS-GEFORCE-GT-710-GT710-SL-2GD5;5338,00 р.
+Colorful GeForce GT 1030 2G V4-V;https://www.e-katalog.ru/prices/COLORFUL-GEFORCE-GT-1030-2G-V4-V;7850,00 р.
+ASRock Radeon RX 6700 XT Challenger Pro 12GB OC;https://www.e-katalog.ru/prices/ASROCK-RADEON-RX-6700-XT-CHALLENGER-PRO-12GB-OC;92000,00 р.
+Gigabyte NVIDIA CMP 30HX D6 6G;https://www.e-katalog.ru/prices/GIGABYTE-NVIDIA-CMP-30HX-D6-6G;61000,00 р.
+PowerColor Radeon RX 6700 XT Red Devil;https://www.e-katalog.ru/prices/POWERCOLOR-RADEON-RX-6700-XT-RED-DEVIL;105989,00 р.
+Gigabyte GeForce RTX 2060 OC rev. 2.0;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-2060-OC-REV--2-0;53400,00 р.
+Asus GeForce GTX 1660 Ti TUF Gaming EVO OC;https://www.e-katalog.ru/prices/ASUS-GEFORCE-GTX-1660-TI-TUF-GAMING-EVO-OC;54490,00 р.
+MSI Radeon RX 6700 XT MECH 2X 12G OC;https://www.e-katalog.ru/prices/MSI-RADEON-RX-6700-XT-MECH-2X-12G-OC;92990,00 р.
+Palit GeForce GT 1030 1082F;https://www.e-katalog.ru/prices/PALIT-GEFORCE-GT-1030-1082F;6910,00 р.
+Gigabyte GeForce RTX 3080 AORUS XTREME 10G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3080-AORUS-XTREME-10G;187000,00 р.
+INNO3D GeForce RTX 3080 ICHILL X4 LHR;https://www.e-katalog.ru/prices/INNO3D-GEFORCE-RTX-3080-ICHILL-X4-LHR;137680,00 р.
+MSI GeForce RTX 3080 Ti SUPRIM X 12G;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3080-TI-SUPRIM-X-12G;202776,00 р.
+Gigabyte GeForce RTX 3070 EAGLE 8G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3070-EAGLE-8G;95190,00 р.
+EVGA GeForce RTX 3080 FTW3 ULTRA GAMING;https://www.e-katalog.ru/prices/EVGA-GEFORCE-RTX-3080-FTW3-ULTRA-GAMING;199600,00 р.
+Sapphire PULSE RX 6800 XT 11304-03-20G;https://www.e-katalog.ru/prices/SAPPHIRE-PULSE-RX-6800-XT-11304-03-20G;141900,00 р.
+MSI N730-2GD3V2;https://www.e-katalog.ru/prices/MSI-N730-2GD3V2;5150,00 р.
+INNO3D GeForce RTX 3060 TI TWIN X2 OC LHR;https://www.e-katalog.ru/prices/INNO3D-GEFORCE-RTX-3060-TI-TWIN-X2-OC-LHR;84500,00 р.
+Asus GeForce RTX 3070 TUF Gaming OC;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3070-TUF-GAMING-OC;154600,00 р.
+Asus GeForce RTX 3070 ROG STRIX OC;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3070-ROG-STRIX-OC;148200,00 р.
+Gigabyte GeForce RTX 3080 TURBO LHR 10G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3080-TURBO-LHR-10G;150990,00 р.
+Ninja GeForce GT 740 NK74NP045F;https://www.e-katalog.ru/prices/NINJA-GEFORCE-GT-740-NK74NP045F;9200,00 р.
+MSI Radeon RX 6900 XT GAMING Z TRIO 16G;https://www.e-katalog.ru/prices/MSI-RADEON-RX-6900-XT-GAMING-Z-TRIO-16G;154990,00 р.
+Sapphire Radeon RX 6700 XT 11306-01-20G;https://www.e-katalog.ru/prices/SAPPHIRE-RADEON-RX-6700-XT-11306-01-20G;104834,00 р.
+Colorful GeForce GTX 1660 SUPER NB 6G-V;https://www.e-katalog.ru/prices/COLORFUL-GEFORCE-GTX-1660-SUPER-NB-6G-V;56850,00 р.
+KFA2 GeForce RTX 2060 26NRL7HPX7OK;https://www.e-katalog.ru/prices/KFA2-GEFORCE-RTX-2060-26NRL7HPX7OK;56987,00 р.
+Gigabyte Radeon RX 6700 XT AORUS ELITE 12G;https://www.e-katalog.ru/prices/GIGABYTE-RADEON-RX-6700-XT-AORUS-ELITE-12G;97490,00 р.
+Asus GeForce RTX 3090 TURBO;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3090-TURBO;265000,00 р.
+INNO3D GeForce RTX 3080 Ti ICHILL X4;https://www.e-katalog.ru/prices/INNO3D-GEFORCE-RTX-3080-TI-ICHILL-X4;175450,00 р.
+KFA2 GeForce GT 730 73GPF4HX003K;https://www.e-katalog.ru/prices/KFA2-GEFORCE-GT-730-73GPF4HX003K;5283,00 р.
+ZOTAC GeForce RTX 3060 Ti Twin Edge OC LHR;https://www.e-katalog.ru/prices/ZOTAC-GEFORCE-RTX-3060-TI-TWIN-EDGE-OC-LHR;78480,00 р.
+MSI GeForce RTX 3090 SUPRIM X 24G;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3090-SUPRIM-X-24G;319987,00 р.
+Asus GeForce RTX 3090 ROG STRIX OC White;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3090-ROG-STRIX-OC-WHITE;299400,00 р.
+Asus Radeon RX 6900 XT ROG STRIX LC;https://www.e-katalog.ru/prices/ASUS-RADEON-RX-6900-XT-ROG-STRIX-LC;152870,00 р.
+Asus GeForce GTX 1660 SUPER PHOENIX OC;https://www.e-katalog.ru/prices/ASUS-GEFORCE-GTX-1660-SUPER-PHOENIX-OC;57950,00 р.
+Colorful GeForce RTX 3060 Ultra W OC 12G L-V LHR;https://www.e-katalog.ru/prices/COLORFUL-GEFORCE-RTX-3060-ULTRA-W-OC-12G-L-V-LHR;74900,00 р.
+Gigabyte GeForce RTX 3080 EAGLE LHR 10G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3080-EAGLE-LHR-10G;133000,00 р.
+Colorful GeForce RTX 3080 Ti Vulcan OC-V;https://www.e-katalog.ru/prices/COLORFUL-GEFORCE-RTX-3080-TI-VULCAN-OC-V;182500,00 р.
+Gigabyte GeForce RTX 3080 TURBO 10G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3080-TURBO-10G;202290,00 р.
+EVGA GeForce RTX 3080 FTW3 ULTRA GAMING LHR;https://www.e-katalog.ru/prices/EVGA-GEFORCE-RTX-3080-FTW3-ULTRA-GAMING-LHR;152990,00 р.
+Sapphire TOXIC RX 6900 XT 11308-08-20G;https://www.e-katalog.ru/prices/SAPPHIRE-TOXIC-RX-6900-XT-11308-08-20G;156474,00 р.
+INNO3D GeForce RTX 2060 TWIN X2;https://www.e-katalog.ru/prices/INNO3D-GEFORCE-RTX-2060-TWIN-X2;53550,00 р.
+MSI GeForce RTX 3090 GAMING X TRIO;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3090-GAMING-X-TRIO;289990,00 р.
+Palit GeForce RTX 3080 GameRock V1 LHR;https://www.e-katalog.ru/prices/PALIT-GEFORCE-RTX-3080-GAMEROCK-V1-LHR;139900,00 р.
+Sinotex GeForce GTX 750 Ti NH75TI045F;https://www.e-katalog.ru/prices/SINOTEX-GEFORCE-GTX-750-TI-NH75TI045F;10780,00 р.
+MSI GeForce RTX 3080 SUPRIM X 10G;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3080-SUPRIM-X-10G;209490,00 р.
+Palit GeForce RTX 3060 StormX V1 LHR;https://www.e-katalog.ru/prices/PALIT-GEFORCE-RTX-3060-STORMX-V1-LHR;73080,00 р.
+Sinotex GeForce GT 740 NH74NP025F;https://www.e-katalog.ru/prices/SINOTEX-GEFORCE-GT-740-NH74NP025F;6962,00 р.
+PNY Tesla A100 TCSA100M-PB;https://www.e-katalog.ru/prices/PNY-TESLA-A100-TCSA100M-PB;899660,00 р.
+Gigabyte GeForce RTX 3070 VISION OC LHR 8G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3070-VISION-OC-LHR-8G;105990,00 р.
+Asus GeForce RTX 3080 TUF OC GAMING;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3080-TUF-OC-GAMING;231000,00 р.
+ZOTAC GeForce RTX 3070 Ti Trinity OC;https://www.e-katalog.ru/prices/ZOTAC-GEFORCE-RTX-3070-TI-TRINITY-OC;112800,00 р.
+Gigabyte Radeon RX 6800 XT GAMING OC 16G;https://www.e-katalog.ru/prices/GIGABYTE-RADEON-RX-6800-XT-GAMING-OC-16G;176000,00 р.
+Asus GeForce RTX 3060 ROG STRIX Gaming OC 12GB;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3060-ROG-STRIX-GAMING-OC-12GB;95800,00 р.
+PNY Quadro RTX 4000 VCQRTX4000-PB;https://www.e-katalog.ru/prices/PNY-QUADRO-RTX-4000-VCQRTX4000-PB;85440,00 р.
+Gigabyte GeForce RTX 3090 TURBO 24G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3090-TURBO-24G;255000,00 р.
+Palit GeForce RTX 3070 GameRock V1 LHR;https://www.e-katalog.ru/prices/PALIT-GEFORCE-RTX-3070-GAMEROCK-V1-LHR;104990,00 р.
+MSI GeForce RTX 3080 VENTUS 3X PLUS 10G OC LHR;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3080-VENTUS-3X-PLUS-10G-OC-LHR;141500,00 р.
+Gigabyte GeForce RTX 3070 Ti VISION OC 8G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3070-TI-VISION-OC-8G;119000,00 р.
+Palit GeForce 1050 Ti StormX NE5105T018G1-1076F;https://www.e-katalog.ru/prices/PALIT-GEFORCE-1050-TI-STORMX-NE5105T018G1-1076F;24990,00 р.
+MSI Radeon RX 6700 XT GAMING X 12G;https://www.e-katalog.ru/prices/MSI-RADEON-RX-6700-XT-GAMING-X-12G;94500,00 р.
+Sinotex GeForce GT 730 NK73NP043F;https://www.e-katalog.ru/prices/SINOTEX-GEFORCE-GT-730-NK73NP043F;5240,00 р.
+Gigabyte GeForce RTX 3080 AORUS MASTER 3.0 LHR 10G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3080-AORUS-MASTER-3-0-LHR-10G;146000,00 р.
+Asus GeForce RTX 3060 Dual OC;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3060-DUAL-OC;74990,00 р.
+Gigabyte GeForce RTX 3090 AORUS XTREME WATERFORCE 24G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3090-AORUS-XTREME-WATERFORCE-24G;320990,00 р.
+HP Radeon Pro WX 3200 6YT68AA;https://www.e-katalog.ru/prices/HP-RADEON-PRO-WX-3200-6YT68AA;17990,00 р.
+Gigabyte GeForce RTX 3080 GAMING OC WATERFORCE WB 10G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3080-GAMING-OC-WATERFORCE-WB-10G;209990,00 р.
+Gigabyte GeForce RTX 3080 AORUS GAMING BOX;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3080-AORUS-GAMING-BOX;184914,00 р.
+EVGA GeForce RTX 3090 FTW3 ULTRA GAMING;https://www.e-katalog.ru/prices/EVGA-GEFORCE-RTX-3090-FTW3-ULTRA-GAMING;265000,00 р.
+PowerColor Radeon RX 6600 XT Hellhound;https://www.e-katalog.ru/prices/POWERCOLOR-RADEON-RX-6600-XT-HELLHOUND;62500,00 р.
+ASRock Radeon RX 6700 XT Challenger D 12GB;https://www.e-katalog.ru/prices/ASROCK-RADEON-RX-6700-XT-CHALLENGER-D-12GB;112800,00 р.
+Asus GeForce GTX 1650 PHOENIX;https://www.e-katalog.ru/prices/ASUS-GEFORCE-GTX-1650-PHOENIX;44890,00 р.
+EVGA GeForce RTX 3060 Ti XC GAMING LHR;https://www.e-katalog.ru/prices/EVGA-GEFORCE-RTX-3060-TI-XC-GAMING-LHR;95544,00 р.
+PowerColor Radeon RX 6800 XT Red Devil AXRX 6800XT 16GBD6-3DHE/OC;https://www.e-katalog.ru/prices/POWERCOLOR-RADEON-RX-6800-XT-RED-DEVIL-AXRX-6800XT-16GBD6-3DHE-OC;132590,00 р.
+Gigabyte GeForce RTX 3080 Ti AORUS XTREME WATERFORCE 12G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3080-TI-AORUS-XTREME-WATERFORCE-12G;230900,00 р.
+MSI GeForce RTX 3060 GAMING X TRIO 12G;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3060-GAMING-X-TRIO-12G;74990,00 р.
+EVGA GeForce RTX 3060 Ti FTW3 ULTRA GAMING LHR;https://www.e-katalog.ru/prices/EVGA-GEFORCE-RTX-3060-TI-FTW3-ULTRA-GAMING-LHR;86060,00 р.
+Gigabyte GeForce GTX 1650 OC Low Profile 4G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-GTX-1650-OC-LOW-PROFILE-4G;29600,00 р.
+MSI GeForce RTX 3080 SUPRIM X 10G LHR;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3080-SUPRIM-X-10G-LHR;159000,00 р.
+Gigabyte GeForce GT 710 GV-N710D3-2GL;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-GT-710-GV-N710D3-2GL;4530,00 р.
+Gigabyte Radeon RX 6900 XT AORUS MASTER 16G;https://www.e-katalog.ru/prices/GIGABYTE-RADEON-RX-6900-XT-AORUS-MASTER-16G;175990,00 р.
+MSI Radeon RX 6600 MECH 2X 8G;https://www.e-katalog.ru/prices/MSI-RADEON-RX-6600-MECH-2X-8G;55950,00 р.
+Biostar Radeon RX 580 VA5805RV82;https://www.e-katalog.ru/prices/BIOSTAR-RADEON-RX-580-VA5805RV82;61950,00 р.
+Gigabyte GeForce RTX 3080 AORUS XTREME WATERFORCE WB 10G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3080-AORUS-XTREME-WATERFORCE-WB-10G;210000,00 р.
+Asus GeForce RTX 3090 ROG STRIX GAMING;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3090-ROG-STRIX-GAMING;298700,00 р.
+Gigabyte GeForce GT 730 GV-N730D5-2GL;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-GT-730-GV-N730D5-2GL;5940,00 р.
+Asus Radeon RX 6700 XT TUF OC;https://www.e-katalog.ru/prices/ASUS-RADEON-RX-6700-XT-TUF-OC;97960,00 р.
+Asus GeForce GTX 1650 SUPER TUF OC;https://www.e-katalog.ru/prices/ASUS-GEFORCE-GTX-1650-SUPER-TUF-OC;33990,00 р.
+MSI GeForce RTX 3080 SEA HAWK X 10G LHR;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3080-SEA-HAWK-X-10G-LHR;146740,00 р.
+Asus GeForce GTX 1660 SUPER ROG STRIX Advanced;https://www.e-katalog.ru/prices/ASUS-GEFORCE-GTX-1660-SUPER-ROG-STRIX-ADVANCED;62000,00 р.
+Asus Radeon RX 6900 XT TUF GAMING;https://www.e-katalog.ru/prices/ASUS-RADEON-RX-6900-XT-TUF-GAMING;156474,00 р.
+Gigabyte GeForce RTX 3070 VISION OC 8G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3070-VISION-OC-8G;188000,00 р.
+Asus GeForce RTX 3070 DUAL V2 LHR;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3070-DUAL-V2-LHR;99990,00 р.
+Sinotex GeForce GTX 750 Ti NH75TI025F;https://www.e-katalog.ru/prices/SINOTEX-GEFORCE-GTX-750-TI-NH75TI025F;8450,00 р.
+Gigabyte GeForce RTX 3070 EAGLE OC LHR 8G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3070-EAGLE-OC-LHR-8G;94880,00 р.
+ASRock Radeon RX 6700 XT Phantom Gaming D 12GB OC;https://www.e-katalog.ru/prices/ASROCK-RADEON-RX-6700-XT-PHANTOM-GAMING-D-12GB-OC;99990,00 р.
+Sinotex Radeon R7 350 AHR735025F;https://www.e-katalog.ru/prices/SINOTEX-RADEON-R7-350-AHR735025F;5960,00 р.
+Asus GeForce GT 710 GT710-4H-SL-2GD5;https://www.e-katalog.ru/prices/ASUS-GEFORCE-GT-710-GT710-4H-SL-2GD5;6987,00 р.
+Palit GeForce GTX 1650 StormX;https://www.e-katalog.ru/prices/PALIT-GEFORCE-GTX-1650-STORMX;26420,00 р.
+Gigabyte GeForce GTX 1660 SUPER D6 6G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-GTX-1660-SUPER-D6-6G;57970,00 р.
+INNO3D GeForce RTX 3090 ICHILL X4;https://www.e-katalog.ru/prices/INNO3D-GEFORCE-RTX-3090-ICHILL-X4;327698,00 р.
+Asus GeForce GTX 1650 SUPER TUF OC;https://www.e-katalog.ru/prices/ASUS-GEFORCE-GTX-1650-SUPER-TUF-OC;33990,00 р.
+EVGA GeForce RTX 3080 XC3 ULTRA GAMING LHR;https://www.e-katalog.ru/prices/EVGA-GEFORCE-RTX-3080-XC3-ULTRA-GAMING-LHR;138680,00 р.
+Gigabyte GeForce GT 710 GV-N710D5-2GIL;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-GT-710-GV-N710D5-2GIL;5095,00 р.
+Asus Radeon R7 240 R7240-2GD5-L;https://www.e-katalog.ru/prices/ASUS-RADEON-R7-240-R7240-2GD5-L;7190,00 р.
+MSI GTX 1050 2G;https://www.e-katalog.ru/prices/MSI-GTX-1050-2G;18155,00 р.
+Asus GeForce RTX 3070 TURBO V2 LHR;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3070-TURBO-V2-LHR;108990,00 р.
+INNO3D GeForce RTX 3060 TI ICHILL X3 RED LHR;https://www.e-katalog.ru/prices/INNO3D-GEFORCE-RTX-3060-TI-ICHILL-X3-RED-LHR;85990,00 р.
+Asus GeForce GTX 1660 SUPER ROG STRIX Advanced;https://www.e-katalog.ru/prices/ASUS-GEFORCE-GTX-1660-SUPER-ROG-STRIX-ADVANCED;62000,00 р.
+PowerColor Radeon RX 6600 Fighter;https://www.e-katalog.ru/prices/POWERCOLOR-RADEON-RX-6600-FIGHTER;55900,00 р.
+Sinotex GeForce GT 740 NK74NP045F;https://www.e-katalog.ru/prices/SINOTEX-GEFORCE-GT-740-NK74NP045F;8190,00 р.
+ZOTAC GeForce GTX 1660 SUPER Twin Fan;https://www.e-katalog.ru/prices/ZOTAC-GEFORCE-GTX-1660-SUPER-TWIN-FAN;60000,00 р.
+AFOX GeForce GT 730 AF730-4096D3L6;https://www.e-katalog.ru/prices/AFOX-GEFORCE-GT-730-AF730-4096D3L6;5665,00 р.
+Gigabyte GeForce GTX 1660 Ti D6 6G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-GTX-1660-TI-D6-6G;55500,00 р.
+Gigabyte GeForce RTX 3080 EAGLE 10G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3080-EAGLE-10G;158760,00 р.
+Gigabyte GeForce RTX 3070 VISION OC 8G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3070-VISION-OC-8G;188000,00 р.
+Gigabyte Radeon RX 6900 XT AORUS XTREME WATERFORCE WB 16G;https://www.e-katalog.ru/prices/GIGABYTE-RADEON-RX-6900-XT-AORUS-XTREME-WATERFORCE-WB-16G;153073,00 р.
+ZOTAC GeForce RTX 3070 AMP Holo;https://www.e-katalog.ru/prices/ZOTAC-GEFORCE-RTX-3070-AMP-HOLO;138000,00 р.
+Gigabyte GeForce RTX 3080 Ti AORUS XTREME WATERFORCE WB 12G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3080-TI-AORUS-XTREME-WATERFORCE-WB-12G;197900,00 р.
+ZOTAC GeForce RTX 3060 Twin Edge OC LHR;https://www.e-katalog.ru/prices/ZOTAC-GEFORCE-RTX-3060-TWIN-EDGE-OC-LHR;80080,00 р.
+Gigabyte GeForce GT 710 GV-N710D5-1GL;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-GT-710-GV-N710D5-1GL;4190,00 р.
+MSI GeForce RTX 3060 VENTUS 3X 12G OC LHR;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3060-VENTUS-3X-12G-OC-LHR;81990,00 р.
+PowerColor Radeon RX 6800 XT AXRX 6800XT 16GBD6-3DHR/OC;https://www.e-katalog.ru/prices/POWERCOLOR-RADEON-RX-6800-XT-AXRX-6800XT-16GBD6-3DHR-OC;133904,00 р.
+Sinotex Radeon R7 250 AXR725025F;https://www.e-katalog.ru/prices/SINOTEX-RADEON-R7-250-AXR725025F;5290,00 р.
+Palit GeForce GTX 1650 StormX;https://www.e-katalog.ru/prices/PALIT-GEFORCE-GTX-1650-STORMX;26420,00 р.
+ZOTAC GeForce RTX 3060 Twin Edge OC LHR;https://www.e-katalog.ru/prices/ZOTAC-GEFORCE-RTX-3060-TWIN-EDGE-OC-LHR;80080,00 р.
+Gigabyte GeForce GT 710 GV-N710D5-1GL;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-GT-710-GV-N710D5-1GL;4190,00 р.
+MSI GeForce RTX 3060 VENTUS 3X 12G OC LHR;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3060-VENTUS-3X-12G-OC-LHR;81990,00 р.
+PowerColor Radeon RX 6800 XT AXRX 6800XT 16GBD6-3DHR/OC;https://www.e-katalog.ru/prices/POWERCOLOR-RADEON-RX-6800-XT-AXRX-6800XT-16GBD6-3DHR-OC;133904,00 р.
+Sinotex Radeon R7 250 AXR725025F;https://www.e-katalog.ru/prices/SINOTEX-RADEON-R7-250-AXR725025F;5290,00 р.
+Gigabyte GeForce RTX 3090 AORUS XTREME WATERFORCE WB 24G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3090-AORUS-XTREME-WATERFORCE-WB-24G;339840,00 р.
+MSI GT 710 2GD3H LP;https://www.e-katalog.ru/prices/MSI-GT-710-2GD3H-LP;4190,00 р.
+MSI N730-4GD3;https://www.e-katalog.ru/prices/MSI-N730-4GD3;7690,00 р.
+AFOX GeForce GT 610 AF610-2048D3L7-V5;https://www.e-katalog.ru/prices/AFOX-GEFORCE-GT-610-AF610-2048D3L7-V5;3900,00 р.
+Asus Radeon RX 6800 XT TUF GAMING OC;https://www.e-katalog.ru/prices/ASUS-RADEON-RX-6800-XT-TUF-GAMING-OC;159490,00 р.
+EVGA GeForce GTX 1660 SUPER SC ULTRA GAMING;https://www.e-katalog.ru/prices/EVGA-GEFORCE-GTX-1660-SUPER-SC-ULTRA-GAMING;61000,00 р.
+Gigabyte GeForce RTX 3090 AORUS MASTER 24G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3090-AORUS-MASTER-24G;277704,00 р.
+ZOTAC GeForce RTX 3080 Ti Trinity OC;https://www.e-katalog.ru/prices/ZOTAC-GEFORCE-RTX-3080-TI-TRINITY-OC;172000,00 р.
+Asus Radeon RX 570 ROG-STRIX-RX570-O8G-GAMING;https://www.e-katalog.ru/prices/ASUS-RADEON-RX-570-ROG-STRIX-RX570-O8G-GAMING;72000,00 р.
+ZOTAC GeForce RTX 3060 AMP White Edition;https://www.e-katalog.ru/prices/ZOTAC-GEFORCE-RTX-3060-AMP-WHITE-EDITION;85330,00 р.
+Sinotex GeForce 210 NK21NP013F;https://www.e-katalog.ru/prices/SINOTEX-GEFORCE-210-NK21NP013F;2290,00 р.
+PowerColor Radeon RX 6900 XT Liquid Devil;https://www.e-katalog.ru/prices/POWERCOLOR-RADEON-RX-6900-XT-LIQUID-DEVIL;166600,00 р.
+Palit GeForce GT 710 NEAT7100HD46-2080H;https://www.e-katalog.ru/prices/PALIT-GEFORCE-GT-710-NEAT7100HD46-2080H;4056,00 р.
+AFOX Radeon R5 220 AFR5220-2048D3L4;https://www.e-katalog.ru/prices/AFOX-RADEON-R5-220-AFR5220-2048D3L4;2780,00 р.
+INNO3D GeForce RTX 3070 ICHILL X4;https://www.e-katalog.ru/prices/INNO3D-GEFORCE-RTX-3070-ICHILL-X4;106440,00 р.
+EVGA GeForce RTX 2060 SC;https://www.e-katalog.ru/prices/EVGA-GEFORCE-RTX-2060-SC;69500,00 р.
+Gigabyte GeForce RTX 2080 SUPER GAMING OC 8G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-2080-SUPER-GAMING-OC-8G;104990,00 р.
+MSI GeForce GTX 1650 AERO ITX 4G OC;https://www.e-katalog.ru/prices/MSI-GEFORCE-GTX-1650-AERO-ITX-4G-OC;48036,00 р.
+Sapphire Radeon RX 6700 XT 11306-02-20G;https://www.e-katalog.ru/prices/SAPPHIRE-RADEON-RX-6700-XT-11306-02-20G;109990,00 р.
+PNY Quadro P1000;https://www.e-katalog.ru/prices/PNY-QUADRO-P1000;26970,00 р.
+EVGA GeForce RTX 3080 XC3 BLACK GAMING LHR;https://www.e-katalog.ru/prices/EVGA-GEFORCE-RTX-3080-XC3-BLACK-GAMING-LHR;149982,00 р.
+Sapphire NITRO+ RX 6900 XT 11308-01-20G;https://www.e-katalog.ru/prices/SAPPHIRE-NITROPLUS-RX-6900-XT-11308-01-20G;184990,00 р.
+Gigabyte GeForce RTX 3080 AORUS XTREME WATERFORCE WB LHR 10G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3080-AORUS-XTREME-WATERFORCE-WB-LHR-10G;154000,00 р.
+AFOX GeForce GT 730 AF730-2048D3L7;https://www.e-katalog.ru/prices/AFOX-GEFORCE-GT-730-AF730-2048D3L7;4642,00 р.
+AFOX GeForce 210 AF210-1024D2LG2;https://www.e-katalog.ru/prices/AFOX-GEFORCE-210-AF210-1024D2LG2;2550,00 р.
+Gigabyte GeForce RTX 3090 EAGLE OC 24G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3090-EAGLE-OC-24G;288648,00 р.
+Gigabyte GeForce GT 730 GV-N730D5-2GI rev. 1.0;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-GT-730-GV-N730D5-2GI-REV--1-0;6990,00 р.
+Palit GeForce GT 1030 1080F;https://www.e-katalog.ru/prices/PALIT-GEFORCE-GT-1030-1080F;8790,00 р.
+Gigabyte Radeon RX 6900 XT GAMING OC 16G;https://www.e-katalog.ru/prices/GIGABYTE-RADEON-RX-6900-XT-GAMING-OC-16G;155088,00 р.
+Sapphire PULSE RX 6800 11305-02-20G;https://www.e-katalog.ru/prices/SAPPHIRE-PULSE-RX-6800-11305-02-20G;149990,00 р.
+Sinotex GeForce GT 610 NK61NP023F;https://www.e-katalog.ru/prices/SINOTEX-GEFORCE-GT-610-NK61NP023F;2820,00 р.
+HP Quadro RTX 4000 5JV89AA;https://www.e-katalog.ru/prices/HP-QUADRO-RTX-4000-5JV89AA;68894,00 р.
+AFOX Geforce GT 220 AF220-1024D3L4;https://www.e-katalog.ru/prices/AFOX-GEFORCE-GT-220-AF220-1024D3L4;2640,00 р.
+Gigabyte GeForce GT 710 GV-N710D5SL-2GL;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-GT-710-GV-N710D5SL-2GL;4348,00 р.
+AFOX Radeon R5 230 AFR5230-1024D3L9-V2;https://www.e-katalog.ru/prices/AFOX-RADEON-R5-230-AFR5230-1024D3L9-V2;3590,00 р.
+EVGA GeForce RTX 3070 FTW3 ULTRA GAMING LHR;https://www.e-katalog.ru/prices/EVGA-GEFORCE-RTX-3070-FTW3-ULTRA-GAMING-LHR;112560,00 р.
+ZOTAC GeForce GT 730 ZT-71115-20L;https://www.e-katalog.ru/prices/ZOTAC-GEFORCE-GT-730-ZT-71115-20L;5940,00 р.
+ASRock Radeon RX 6900 XT OC Formula 16GB;https://www.e-katalog.ru/prices/ASROCK-RADEON-RX-6900-XT-OC-FORMULA-16GB;163273,00 р.
+Gigabyte GeForce RTX 3080 Ti AORUS XTREME 20G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3080-TI-AORUS-XTREME-20G;247200,00 р.
+MSI GeForce RTX 3080 GAMING Z TRIO 10G;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3080-GAMING-Z-TRIO-10G;211990,00 р.
+ZOTAC GeForce RTX 3080 AMP Holo;https://www.e-katalog.ru/prices/ZOTAC-GEFORCE-RTX-3080-AMP-HOLO;192000,00 р.
+PNY Quadro RTX 4000 VCQRTX4000BLK-1;https://www.e-katalog.ru/prices/PNY-QUADRO-RTX-4000-VCQRTX4000BLK-1;85505,00 р.
+Sapphire Radeon RX 580 PULSE 8G G5 11265-05;https://www.e-katalog.ru/prices/SAPPHIRE-RADEON-RX-580-PULSE-8G-G5-11265-05;63000,00 р.
+Gigabyte GeForce GT 730 GV-N730D3-2GI;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-GT-730-GV-N730D3-2GI;5350,00 р.
+ZOTAC GeForce RTX 3080 Ti AMP Holo;https://www.e-katalog.ru/prices/ZOTAC-GEFORCE-RTX-3080-TI-AMP-HOLO;173190,00 р.
+PNY Quadro RTX 4000 VCQRTX4000-SB;https://www.e-katalog.ru/prices/PNY-QUADRO-RTX-4000-VCQRTX4000-SB;80278,00 р.
+Asus GeForce RTX 3080 ROG STRIX GAMING OC WHITE;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3080-ROG-STRIX-GAMING-OC-WHITE;259416,00 р.
+Gigabyte GeForce RTX 3080 AORUS XTREME WATERFORCE LHR 10G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3080-AORUS-XTREME-WATERFORCE-LHR-10G;169990,00 р.
+Gigabyte GeForce GTX 1660 SUPER MINI ITX 6G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-GTX-1660-SUPER-MINI-ITX-6G;59490,00 р.
+Sapphire TOXIC RX 6900 XT 11308-06-20G;https://www.e-katalog.ru/prices/SAPPHIRE-TOXIC-RX-6900-XT-11308-06-20G;156474,00 р.
+Gigabyte Radeon RX 6700 XT EAGLE 12G;https://www.e-katalog.ru/prices/GIGABYTE-RADEON-RX-6700-XT-EAGLE-12G;111900,00 р.
+ZOTAC GeForce RTX 3090 AMP Extreme Holo;https://www.e-katalog.ru/prices/ZOTAC-GEFORCE-RTX-3090-AMP-EXTREME-HOLO;254900,00 р.
+Asus GeForce RTX 3080 TURBO;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3080-TURBO;187900,00 р.
+Sapphire Radeon RX 6700 XT 11306-05-20G;https://www.e-katalog.ru/prices/SAPPHIRE-RADEON-RX-6700-XT-11306-05-20G;93990,00 р.
+Colorful GeForce RTX 2060 NB-V;https://www.e-katalog.ru/prices/COLORFUL-GEFORCE-RTX-2060-NB-V;55500,00 р.
+Asus GeForce RTX 3070 ROG STRIX OC White;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3070-ROG-STRIX-OC-WHITE;146300,00 р.
+PNY Quadro RTX 4000 VCQRTX4000-BSP;https://www.e-katalog.ru/prices/PNY-QUADRO-RTX-4000-VCQRTX4000-BSP;82280,00 р.
+Dell Quadro P400 490-BDTB;https://www.e-katalog.ru/prices/DELL-QUADRO-P400-490-BDTB;9744,00 р.
+PNY Quadro P400;https://www.e-katalog.ru/prices/PNY-QUADRO-P400;9440,00 р.
+MSI GeForce GT 1030 AERO ITX 2GD4 OCV1;https://www.e-katalog.ru/prices/MSI-GEFORCE-GT-1030-AERO-ITX-2GD4-OCV1;8990,00 р.
+PNY Quadro RTX A6000 VCNRTXA6000-PB;https://www.e-katalog.ru/prices/PNY-QUADRO-RTX-A6000-VCNRTXA6000-PB;465639,00 р.
+EVGA GeForce RTX 3070 XC3 ULTRA GAMING;https://www.e-katalog.ru/prices/EVGA-GEFORCE-RTX-3070-XC3-ULTRA-GAMING;140000,00 р.
+Colorful GeForce RTX 3070 Ti Ultra W OC 8G-V;https://www.e-katalog.ru/prices/COLORFUL-GEFORCE-RTX-3070-TI-ULTRA-W-OC-8G-V;118050,00 р.
+KFA2 GeForce RTX 3080 Ti 38IOM5MD99DK;https://www.e-katalog.ru/prices/KFA2-GEFORCE-RTX-3080-TI-38IOM5MD99DK;185600,00 р.
+Sinotex GeForce GT 730 NK73NP023F;https://www.e-katalog.ru/prices/SINOTEX-GEFORCE-GT-730-NK73NP023F;5330,00 р.
+EVGA GeForce RTX 3090 XC3 ULTRA GAMING;https://www.e-katalog.ru/prices/EVGA-GEFORCE-RTX-3090-XC3-ULTRA-GAMING;271000,00 р.
+Gigabyte GeForce RTX 3080 GAMING OC WATERFORCE WB LHR 10G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3080-GAMING-OC-WATERFORCE-WB-LHR-10G;160990,00 р.
+ZOTAC GeForce GTX 1660 Twin Fan;https://www.e-katalog.ru/prices/ZOTAC-GEFORCE-GTX-1660-TWIN-FAN;59999,00 р.
+AFOX GeForce GT 710 AF710-2048D3L7;https://www.e-katalog.ru/prices/AFOX-GEFORCE-GT-710-AF710-2048D3L7;3800,00 р.
+PNY Quadro P2200 VCQP2200-PB;https://www.e-katalog.ru/prices/PNY-QUADRO-P2200-VCQP2200-PB;54971,00 р.
+Dell Quadro P1000 490-BDXO;https://www.e-katalog.ru/prices/DELL-QUADRO-P1000-490-BDXO;17963,00 р.
+Sinotex Radeon R5 230 AXR523023F;https://www.e-katalog.ru/prices/SINOTEX-RADEON-R5-230-AXR523023F;3600,00 р.
+INNO3D GeForce GTX 1660 TI TWIN X2 OC RGB;https://www.e-katalog.ru/prices/INNO3D-GEFORCE-GTX-1660-TI-TWIN-X2-OC-RGB;55720,00 р.
+Colorful GeForce GT 730 K 2GD3-V;https://www.e-katalog.ru/prices/COLORFUL-GEFORCE-GT-730-K-2GD3-V;4720,00 р.
+Colorful GeForce RTX 3080 Advanced OC 10G LHR-V;https://www.e-katalog.ru/prices/COLORFUL-GEFORCE-RTX-3080-ADVANCED-OC-10G-LHR-V;153701,00 р.
+PNY Quadro T1000 VCNT1000-SB;https://www.e-katalog.ru/prices/PNY-QUADRO-T1000-VCNT1000-SB;28765,00 р.
+PNY Quadro RTX 8000 VCQRTX8000-PB;https://www.e-katalog.ru/prices/PNY-QUADRO-RTX-8000-VCQRTX8000-PB;510308,00 р.
+Gigabyte GeForce RTX 3080 AORUS XTREME WATERFORCE 10G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-RTX-3080-AORUS-XTREME-WATERFORCE-10G;241490,00 р.
+ZOTAC GeForce RTX 3070 Twin Edge OC LHR;https://www.e-katalog.ru/prices/ZOTAC-GEFORCE-RTX-3070-TWIN-EDGE-OC-LHR;105720,00 р.
+Asus GeForce GT 730 GT730-SL-2GD5-BRK;https://www.e-katalog.ru/prices/ASUS-GEFORCE-GT-730-GT730-SL-2GD5-BRK;6190,00 р.
+Ninja GeForce 210 NK21NPO13F;https://www.e-katalog.ru/prices/NINJA-GEFORCE-210-NK21NPO13F;2700,00 р.
+INNO3D GeForce GTX 1660 SUPER TWIN X2;https://www.e-katalog.ru/prices/INNO3D-GEFORCE-GTX-1660-SUPER-TWIN-X2;80000,00 р.
+AFOX GeForce GT 730 AF730-2048D3L8;https://www.e-katalog.ru/prices/AFOX-GEFORCE-GT-730-AF730-2048D3L8;4642,00 р.
+Gigabyte GeForce 210 GV-N210D3-1GI;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-210-GV-N210D3-1GI;3000,00 р.
+EVGA GeForce RTX 3070 XC3 ULTRA GAMING LHR;https://www.e-katalog.ru/prices/EVGA-GEFORCE-RTX-3070-XC3-ULTRA-GAMING-LHR;111040,00 р.
+INNO3D GeForce GTX 1050 TI X2 1D;https://www.e-katalog.ru/prices/INNO3D-GEFORCE-GTX-1050-TI-X2-1D;25950,00 р.
+Asus Radeon RX 470 MINING-RX470-4G;https://www.e-katalog.ru/prices/ASUS-RADEON-RX-470-MINING-RX470-4G;25880,00 р.
+PNY Quadro P620 VCQP620V2-PB;https://www.e-katalog.ru/prices/PNY-QUADRO-P620-VCQP620V2-PB;18270,00 р.
+Sinotex GeForce GT 710 NK71NP023F;https://www.e-katalog.ru/prices/SINOTEX-GEFORCE-GT-710-NK71NP023F;3590,00 р.
+AFOX GeForce GT 710 AF710-2048D3L5-V3;https://www.e-katalog.ru/prices/AFOX-GEFORCE-GT-710-AF710-2048D3L5-V3;3800,00 р.
+ZOTAC GeForce RTX 2060 GAMING;https://www.e-katalog.ru/prices/ZOTAC-GEFORCE-RTX-2060-GAMING;61431,00 р.
+Ninja GeForce GT 730 NX73SP023F;https://www.e-katalog.ru/prices/NINJA-GEFORCE-GT-730-NX73SP023F;4871,00 р.
+KFA2 GeForce 210 21GGF4HI00NK;https://www.e-katalog.ru/prices/KFA2-GEFORCE-210-21GGF4HI00NK;2990,00 р.
+Colorful GeForce RTX 3070 Ti NB 8G-V;https://www.e-katalog.ru/prices/COLORFUL-GEFORCE-RTX-3070-TI-NB-8G-V;117370,00 р.
+Sinotex Radeon R5 230 AHR523013F;https://www.e-katalog.ru/prices/SINOTEX-RADEON-R5-230-AHR523013F;2690,00 р.
+PNY Quadro P4000;https://www.e-katalog.ru/prices/PNY-QUADRO-P4000;169990,00 р.
+PNY Quadro M4000;https://www.e-katalog.ru/prices/PNY-QUADRO-M4000;59900,00 р.
+Asus GeForce RTX 3080 ROG STRIX GAMING OC;https://www.e-katalog.ru/prices/ASUS-GEFORCE-RTX-3080-ROG-STRIX-GAMING-OC;209600,00 р.
+Ninja Radeon R5 230 AKR523013F;https://www.e-katalog.ru/prices/NINJA-RADEON-R5-230-AKR523013F;3263,00 р.
+PNY Quadro 4000;https://www.e-katalog.ru/prices/PNY-QUADRO-4000;39990,00 р.
+Colorful GeForce RTX 3060 bilibili E-sports Edition OC 12G-V;https://www.e-katalog.ru/prices/COLORFUL-GEFORCE-RTX-3060-BILIBILI-E-SPORTS-EDITION-OC-12G-V;88800,00 р.
+KFA2 GeForce GTX 1660 SUPER 60SRL7DSY91K;https://www.e-katalog.ru/prices/KFA2-GEFORCE-GTX-1660-SUPER-60SRL7DSY91K;61000,00 р.
+Huawei ATLAS 300 HH/HL 02312JPM;https://www.e-katalog.ru/prices/HUAWEI-ATLAS-300-HH-HL-02312JPM;137890,00 р.
+ZOTAC GeForce RTX 3090 Trinity;https://www.e-katalog.ru/prices/ZOTAC-GEFORCE-RTX-3090-TRINITY;256000,00 р.
+INNO3D GeForce RTX 3070 ICHILL X4 LHR;https://www.e-katalog.ru/prices/INNO3D-GEFORCE-RTX-3070-ICHILL-X4-LHR;106250,00 р.
+Gigabyte GeForce GT 1030 Silent Low Profile 2G;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-GT-1030-SILENT-LOW-PROFILE-2G;9750,00 р.
+ZOTAC GeForce RTX 3080 Trinity OC;https://www.e-katalog.ru/prices/ZOTAC-GEFORCE-RTX-3080-TRINITY-OC;198600,00 р.
+PowerColor Radeon RX 6700 XT Hellhound 12GB;https://www.e-katalog.ru/prices/POWERCOLOR-RADEON-RX-6700-XT-HELLHOUND-12GB;117990,00 р.
+AFOX GeForce GT 610 AF610-2048D3L5;https://www.e-katalog.ru/prices/AFOX-GEFORCE-GT-610-AF610-2048D3L5;3040,00 р.
+PNY Quadro P620 VCQP620V2-BLS;https://www.e-katalog.ru/prices/PNY-QUADRO-P620-VCQP620V2-BLS;16333,00 р.
+Gigabyte Radeon RX 6900 XT 16G;https://www.e-katalog.ru/prices/GIGABYTE-RADEON-RX-6900-XT-16G;224290,00 р.
+PNY Quadro P2200 VCQP2200BLK-1;https://www.e-katalog.ru/prices/PNY-QUADRO-P2200-VCQP2200BLK-1;48320,00 р.
+Sinotex GeForce GT 730 NX73SP023F;https://www.e-katalog.ru/prices/SINOTEX-GEFORCE-GT-730-NX73SP023F;4640,00 р.
+Ninja GeForce GT 220 NH22NP013F;https://www.e-katalog.ru/prices/NINJA-GEFORCE-GT-220-NH22NP013F;3003,00 р.
+PNY Quadro P2000;https://www.e-katalog.ru/prices/PNY-QUADRO-P2000;42162,00 р.
+PNY Quadro K2200;https://www.e-katalog.ru/prices/PNY-QUADRO-K2200;43600,00 р.
+MSI N210-MD1GD3H/LP;https://www.e-katalog.ru/prices/MSI-N210-MD1GD3H-LP;3250,00 р.
+Sinotex GeForce GT 610 NK61NP013F;https://www.e-katalog.ru/prices/SINOTEX-GEFORCE-GT-610-NK61NP013F;2620,00 р.
+PNY Tesla K40;https://www.e-katalog.ru/prices/PNY-TESLA-K40;97990,00 р.
+Asus Quadro RTX A6000 900-5G133-0000-000;https://www.e-katalog.ru/prices/ASUS-QUADRO-RTX-A6000-900-5G133-0000-000;509990,00 р.
+Dell Quadro P1000 490-BDXN;https://www.e-katalog.ru/prices/DELL-QUADRO-P1000-490-BDXN;25590,00 р.
+MSI N730K-2GD3/OC;https://www.e-katalog.ru/prices/MSI-N730K-2GD3-OC;5520,00 р.
+Gainward GeForce RTX 3060 Ghost;https://www.e-katalog.ru/prices/GAINWARD-GEFORCE-RTX-3060-GHOST;69000,00 р.
+PNY Quadro P5000;https://www.e-katalog.ru/prices/PNY-QUADRO-P5000;169500,00 р.
+MSI GeForce RTX 3080 GAMING X TRIO 10G;https://www.e-katalog.ru/prices/MSI-GEFORCE-RTX-3080-GAMING-X-TRIO-10G;203600,00 р.
+Supermicro Tesla M2050 AOC-GPU-NVM2050;https://www.e-katalog.ru/prices/SUPERMICRO-TESLA-M2050-AOC-GPU-NVM2050;36820,00 р.
+AFOX Radeon R5 230 AFR5230-2048D3L4;https://www.e-katalog.ru/prices/AFOX-RADEON-R5-230-AFR5230-2048D3L4;3290,00 р.
+Ninja GeForce GT 730 NK73NP023F;https://www.e-katalog.ru/prices/NINJA-GEFORCE-GT-730-NK73NP023F;5347,00 р.
+PNY Quadro T1000 VCNT1000-BLK;https://www.e-katalog.ru/prices/PNY-QUADRO-T1000-VCNT1000-BLK;30910,00 р.
+Colorful GeForce RTX 3080 Ti Advanced OC-V;https://www.e-katalog.ru/prices/COLORFUL-GEFORCE-RTX-3080-TI-ADVANCED-OC-V;177000,00 р.
+Gainward GeForce RTX 3060 Ti Ghost OC;https://www.e-katalog.ru/prices/GAINWARD-GEFORCE-RTX-3060-TI-GHOST-OC;78000,00 р.
+MSI GeForce GTX 1660 Ti VENTUS XS 6G OC;https://www.e-katalog.ru/prices/MSI-GEFORCE-GTX-1660-TI-VENTUS-XS-6G-OC;69900,00 р.
+Gigabyte GeForce GT 730 GV-N730D5-2GI rev. 2.0;https://www.e-katalog.ru/prices/GIGABYTE-GEFORCE-GT-730-GV-N730D5-2GI-REV--2-0;7790,00 р.
+INNO3D GeForce GT 1030 0DB;https://www.e-katalog.ru/prices/INNO3D-GEFORCE-GT-1030-0DB;10700,00 р.
+PNY Quadro P620 VCQP620DVIV2-PB;https://www.e-katalog.ru/prices/PNY-QUADRO-P620-VCQP620DVIV2-PB;18120,00 р.
+Palit GeForce GT 730 NEAT7300HD46-2080H;https://www.e-katalog.ru/prices/PALIT-GEFORCE-GT-730-NEAT7300HD46-2080H;5100,00 р.
+Gainward GeForce GT 1030 426018336-4085;https://www.e-katalog.ru/prices/GAINWARD-GEFORCE-GT-1030-426018336-4085;9918,00 р.
+PNY Quadro RTX 5000 VCQRTX5000BLK-1;https://www.e-katalog.ru/prices/PNY-QUADRO-RTX-5000-VCQRTX5000BLK-1;167359,00 р.
+Asus GeForce GT 730 GT730-2GD5-BRK;https://www.e-katalog.ru/prices/ASUS-GEFORCE-GT-730-GT730-2GD5-BRK;6295,00 р.
+Colorful GeForce RTX 3070 Ti Vulcan OC 8G-V;https://www.e-katalog.ru/prices/COLORFUL-GEFORCE-RTX-3070-TI-VULCAN-OC-8G-V;119730,00 р.
+ZOTAC GeForce RTX 3070 AMP Holo LHR;https://www.e-katalog.ru/prices/ZOTAC-GEFORCE-RTX-3070-AMP-HOLO-LHR;104700,00 р.
+PNY Quadro P6000;https://www.e-katalog.ru/prices/PNY-QUADRO-P6000;359990,00 р.
+HP GeForce GT 730 Z9H51AA;https://www.e-katalog.ru/prices/HP-GEFORCE-GT-730-Z9H51AA;6368,00 р.
