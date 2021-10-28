@@ -21,39 +21,26 @@ def get_videocard_data(url):
     # with open('project.html', 'r', encoding='utf-8') as file:
     #     src = file.read()
     soup = BeautifulSoup(req.text, 'lxml')
-    videocards = soup.find_all("div", class_=re.compile("^model-short-div"))
+    videocards = soup.find_all("div", class_="model-short-div")
     for videocard in videocards:
-        vs_name = ''
+
         try:
             videocard_url = f"https://www.e-katalog.ru/prices" + videocard.find("span", class_="u").find_parent("a").get("href").rstrip('.htm')
             vs_name = videocard.find('span', class_='u').text
 
         except Exception:
-            videocard_url = "Ссылка не найдена"
-            try:
-                videocard_url = videocard.find("td", class_=re.compile("^model-short-info")).find("a").get("href")
-                vs_name = videocard.find("td", class_=re.compile("^model-short-info")).find("a").get("title")
-                vs_name = vs_name.split('\n')
-                vs_name = vs_name[0]
-            except Exception:
-                print("Имя не найдено")
-        try:
-            lower_price = videocard.find("td", class_="model-hot-prices-td").find("a").find("span")
-            lower_price = lower_price.text
-            lower_price = ''.join(lower_price.split())
-        except Exception:
-            lower_price = 'Цена не найдена'
-            print("цена не найдена")
+            print("Ничего не нашлось")
             continue
-        # req = requests.get(url=videocard_url, headers=headers)
-        #
-        # soup = BeautifulSoup(req.text, 'lxml')
-        # try:
-        #     lower_price = soup.find("div", class_=re.compile("^desc-big-price")).find("span").text
-        #     lower_price = ''.join(lower_price.split())
-        #
-        # except Exception:
-        #     lower_price = "Цену стоит перепроверить на сайте"
+
+        req = requests.get(url=videocard_url, headers=headers)
+
+        soup = BeautifulSoup(req.text, 'lxml')
+        try:
+            lower_price = soup.find("div", class_=re.compile("desc-big-price")).find("span").text
+            lower_price = ''.join(lower_price.split())
+
+        except Exception:
+            lower_price = "Цену стоит перепроверить на сайте"
 
         videocard_list.append(
             {
@@ -62,7 +49,7 @@ def get_videocard_data(url):
                 "Минимальная цена": lower_price
             }
         )
-        with open('data/videocards.csv', 'a', newline='', encoding='utf-8') as csv_file:
+        with open('data/videocards.csv', 'a', newline='') as csv_file:
             file_writer = csv.writer(csv_file, delimiter=';')
             file_writer.writerow([vs_name, videocard_url, f"{lower_price},00 р."])
 
@@ -77,7 +64,7 @@ def main():
         os.remove(path1)
     if os.path.exists(path2):
         os.remove(path2)
-    for page_index in range(0, 74):
+    for page_index in range(0, 1):
         url = f"https://www.e-katalog.ru/ek-list.php?katalog_=189&page_={page_index}"
         get_videocard_data(url)
         time.sleep(random.randrange(2, 4))
