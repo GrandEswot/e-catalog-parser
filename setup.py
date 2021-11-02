@@ -1,5 +1,10 @@
 from cx_Freeze import setup, Executable
 
+executables = [Executable('main.py',
+                          targetName='parser.exe',
+                          )
+               ]
+
 include_files = ['data']
 
 options = {
@@ -10,10 +15,8 @@ options = {
     }
 }
 
-setup(
-    name="название проги",
-    version="1.0",
-    description="описание - необязательно",
-    executables=[Executable("main.py")],
-    options=options,
-)
+setup(name='parser',
+      version='0.0.13',
+      description='e-catalog.ru parser',
+      executables=executables,
+      options=options)
